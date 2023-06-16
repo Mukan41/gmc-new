@@ -37,44 +37,6 @@ get_header();
 
 
 
-
-    <!-- <section class="webdevelpment-section">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h1 class="heading">Web Development</h1>
-                </div>
-
-                <div class="col-sm-6">
-                    <div class="main">
-                        <div class="web">
-                            <div class="web-logo">
-                                <i class="fa-solid fa-code fs-1 pt-2"></i>
-                            </div>
-                          <i>  <p class="fw-bold">Provide an overview of the company, its mission, and the services it offers in the web
-                                development industry. Explain the company’s expertise in creating visually appealing and
-                                highly functional websites.<br>
-
-                                Remember to tailor the content plan to the specific services and expertise of Grid Code
-                                Media Company. This will help showcase the company’s unique strengths and attract
-                                potential clients interested in their web development services.</i></p>
-
-                                <div class="shadow-one"></div>
-                                <div class="shadow-two"></div>
-                        </div>
-                       
-                    </div>
-                </div>
-
-                <div class="col-sm-6 mt-4">
-                   <img src="assets/images/0_M4bxiCIjcTK-2Xr6.jpg" class="img-fluid rounded" alt="">
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-
-
     <!-- =======testimonial section ====== -->
 
     <section class="testimonial-section">
